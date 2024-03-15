@@ -1,0 +1,2 @@
+It's very important to say that how you orginize your code is very much up to you, and that there's no "right" way to do it.
+This section is going to be my personal opinion on how to orginize your code, and why I'd do it that way.
